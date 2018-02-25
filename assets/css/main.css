@@ -1,5 +1,4 @@
 @charset "UTF-8";
-
 @import url(https://use.fontawesome.com/releases/v5.0.6/css/all.css);
 @import url("http://fonts.googleapis.com/css?family=Source+Sans+Pro:200");
 
@@ -1866,7 +1865,7 @@
 		.icon:before {
 			-moz-osx-font-smoothing: grayscale;
 			-webkit-font-smoothing: antialiased;
-			font-family: "Font Awesome 5 Brands";
+			font-family: "Font Awesome 5 Brands","Font Awesome 5 Free";
 			font-style: normal;
 			font-weight: normal;
 			text-transform: none !important;

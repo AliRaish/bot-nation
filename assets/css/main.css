@@ -1410,7 +1410,7 @@
 
 	body {
 		background-color: #000;
-		background-image: url("../../images/bg.jpg");
+		background-image: url("https://cdn.glitch.com/55d8dce0-a898-493d-9657-8749ce255744%2Fbg.jpg?1519572589202");
 		background-size: cover;
 		background-position: top center;
 	}
@@ -2636,3 +2636,13 @@
 			}
 
 		}
+
+table#t01 {
+    width: 100%;
+    text-align:left;
+    border: 1px solid rgba(255, 255, 255, 0.25);
+}
+table#t01 th {
+    color: white;
+    background-color: rgba(255, 255, 255, 0.15);
+}

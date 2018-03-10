@@ -2641,8 +2641,10 @@ table#t01 {
     width: 100%;
     text-align:left;
     border: 1px solid rgba(255, 255, 255, 0.25);
+    
 }
 table#t01 th {
     color: white;
     background-color: rgba(255, 255, 255, 0.15);
 }
+
